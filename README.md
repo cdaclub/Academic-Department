@@ -1,9 +1,16 @@
 # CDA学术部
 
-学术部主要职能：负责组织学术活动的策划和组织，包括讲座、研讨会、数据分享会、公益活动等。
+简单来说，学术部就做三件事
 
+- 学习：https://github.com/cdaclub/Academic-Department/blob/main/Learning-Group
+- 产出：https://github.com/cdaclub/Academic-Department/blob/main/Content-Output
+- 交流：https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion
 
+关于学习，希望我们都是终身学习者，保持对学习知识的持续热情、对变得优秀的强烈渴望、对帮助别人的奉献精神。
 
+关于产出，费曼学习法告诉我们“输出倒逼输入”，没有DDL就没有生产力，没有交付物就没有执行力。
+
+关于交流，不论是哲学还是社会学都深刻阐释了“链接”的意义，重要性不言而喻，不仅促进专业内容的理解和沟通，还有助于建立良好的人际关系。
 
 ## 组织成员：
 - 部长：暂缺
