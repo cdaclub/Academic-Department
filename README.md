@@ -2,9 +2,9 @@
 
 简单来说，学术部就做三件事
 
-- 学习：https://github.com/cdaclub/Academic-Department/blob/main/Learning-Group
-- 产出：https://github.com/cdaclub/Academic-Department/blob/main/Content-Output
-- 交流：https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion
+- 学习：[https://github.com/cdaclub/Academic-Department/blob/main/Learning-Group](https://github.com/cdaclub/Academic-Department/tree/main/Learning-Group)
+- 产出：[https://github.com/cdaclub/Academic-Department/blob/main/Content-Output](https://github.com/cdaclub/Academic-Department/tree/main/Content-Output)
+- 交流：[https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion](https://github.com/cdaclub/Academic-Department/tree/main/Academic-Discussion)
 
 关于学习，希望我们都是终身学习者，保持对学习知识的持续热情、对变得优秀的强烈渴望、对帮助别人的奉献精神。
 为此，我们将以学习小组的形式举办学习打卡、读书会等活动。内容包括但不限于以下部分：
