@@ -10,8 +10,8 @@
 为此，我们将以学习小组的形式举办学习打卡、读书会等活动。内容包括但不限于以下部分：
 1. 数据方向
    - 数据分析
-		- 软件工具：Python、R、Julia、SQL、stata、powerBi、Tableau
-		- 业务分析：商业分析、战略分析、市场分析、数据运营
+		- 软件工具：[Python](https://github.com/cdaclub/Academic-Department/tree/main/Learning-Group/Python%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8)、R、Julia、[SQL](https://github.com/cdaclub/Academic-Department/tree/main/Learning-Group/SQL%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B8%88%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8)、stata、powerBi、Tableau
+		- 模型理论：[统计学](https://github.com/cdaclub/Academic-Department/tree/main/Learning-Group/Python%E7%BB%9F%E8%AE%A1%E5%AD%A6%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8)、业务分析：商业分析、战略分析、市场分析、数据运营
 	- 数据管理
     - 数据治理
     - 数据交易
