@@ -1,6 +1,6 @@
 # CDA学术部
 
-简单来说，学术部就做三件事
+简单来说，学术部只做三件事
 
 - 学习：[https://github.com/cdaclub/Academic-Department/blob/main/Learning-Group](https://github.com/cdaclub/Academic-Department/tree/main/Learning-Group)
 - 产出：[https://github.com/cdaclub/Academic-Department/blob/main/Content-Output](https://github.com/cdaclub/Academic-Department/tree/main/Content-Output)
