@@ -118,13 +118,14 @@
 ```
 ---
 #### 更新日志
-```python
-1-30 新增学术部首次会议流程文档
-1-30 新增学术资料3份
-1-30 新增学术部成员介绍
-1-22 新增《SQL数据分析极简入门》开源教程
-1-22 新增《Python数据分析极简入门》开源教程
-1-22 新增《统计学数据分析极简入门》开源教程
-1-20 新增学术部文档目录
-1-11 建立俱乐部组织文档
+
+- 1-30 新增学术部首次会议流程文档
+- 1-30 新增学术资料3份
+- 1-30 新增学术部成员介绍
+- 1-22 新增[《SQL数据分析极简入门》](https://github.com/cdaclub/Academic-Department/tree/main/Learning-Group/SQL%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B8%88%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8)开源教程
+- 1-22 新增[《Python数据分析极简入门》](https://github.com/cdaclub/Academic-Department/tree/main/Learning-Group/Python%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8)开源教程
+- 1-22 新增[《统计学数据分析极简入门》](https://github.com/cdaclub/Academic-Department/tree/main/Learning-Group/Python%E7%BB%9F%E8%AE%A1%E5%AD%A6%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8)开源教程
+- 1-20 新增学术部文档目录
+- 1-11 建立俱乐部组织文档
+- 1-05 建立俱乐部组织
 ```
