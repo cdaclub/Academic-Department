@@ -46,19 +46,19 @@
 
 ## 组织成员：
 - 部长：暂缺
-- 副部长：徐杨、张志祥
-- 干事：吴向华
-- 干事：韩燕菊
-- 干事：卢烨
-- 干事：范程怡
-- 干事：王欣璇
-- 干事：张晓
-- 干事：陈志辉
-- 干事：刘帆远
-- 干事：侯国通
-- 干事：洪瑞恺
-- 干事：董意俊
-- 干事：赵威
+- [副部长：徐杨、张志祥](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
+- [干事：吴向华](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
+- [干事：韩燕菊](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
+- [干事：卢烨](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
+- [干事：范程怡](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
+- [干事：王欣璇](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
+- [干事：张晓](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
+- [干事：陈志辉](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
+- [干事：刘帆远](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
+- [干事：侯国通](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
+- [干事：洪瑞恺](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
+- [干事：董意俊](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
+- [干事：赵威](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
 
 ## 每月计划：
 ```
