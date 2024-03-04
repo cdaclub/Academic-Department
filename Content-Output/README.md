@@ -1,1 +1,2 @@
-
+- Short video
+- Image text
