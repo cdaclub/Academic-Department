@@ -46,19 +46,19 @@
 
 ## 组织成员：
 - 部长：暂缺
-- [副部长：徐杨、张志祥](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
-- [干事：吴向华](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
-- [干事：韩燕菊](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
-- [干事：卢烨](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
-- [干事：范程怡](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
-- [干事：王欣璇](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
-- [干事：张晓](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
-- [干事：陈志辉](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
-- [干事：刘帆远](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
-- [干事：侯国通](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
-- [干事：洪瑞恺](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
-- [干事：董意俊](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
-- [干事：赵威](https://github.com/cdaclub/Academic-Department/blob/main/Academic-Discussion/member_info.md)
+- [副部长：徐杨、张志祥](https://github.com/cdaclub/Academic-Department/blob/main/work_documents/%E6%88%90%E5%91%98%E7%AE%80%E4%BB%8B.md)
+- [干事：吴向华](https://github.com/cdaclub/Academic-Department/blob/main/work_documents/%E6%88%90%E5%91%98%E7%AE%80%E4%BB%8B.md)
+- [干事：韩燕菊](https://github.com/cdaclub/Academic-Department/blob/main/work_documents/%E6%88%90%E5%91%98%E7%AE%80%E4%BB%8B.md)
+- [干事：卢烨](https://github.com/cdaclub/Academic-Department/blob/main/work_documents/%E6%88%90%E5%91%98%E7%AE%80%E4%BB%8B.md)
+- [干事：范程怡](https://github.com/cdaclub/Academic-Department/blob/main/work_documents/%E6%88%90%E5%91%98%E7%AE%80%E4%BB%8B.md)
+- [干事：王欣璇](https://github.com/cdaclub/Academic-Department/blob/main/work_documents/%E6%88%90%E5%91%98%E7%AE%80%E4%BB%8B.md)
+- [干事：张晓](https://github.com/cdaclub/Academic-Department/blob/main/work_documents/%E6%88%90%E5%91%98%E7%AE%80%E4%BB%8B.md)
+- [干事：陈志辉](https://github.com/cdaclub/Academic-Department/blob/main/work_documents/%E6%88%90%E5%91%98%E7%AE%80%E4%BB%8B.md)
+- [干事：刘帆远](https://github.com/cdaclub/Academic-Department/blob/main/work_documents/%E6%88%90%E5%91%98%E7%AE%80%E4%BB%8B.md)
+- [干事：侯国通](https://github.com/cdaclub/Academic-Department/blob/main/work_documents/%E6%88%90%E5%91%98%E7%AE%80%E4%BB%8B.md)
+- [干事：洪瑞恺](https://github.com/cdaclub/Academic-Department/blob/main/work_documents/%E6%88%90%E5%91%98%E7%AE%80%E4%BB%8B.md)
+- [干事：董意俊](https://github.com/cdaclub/Academic-Department/blob/main/work_documents/%E6%88%90%E5%91%98%E7%AE%80%E4%BB%8B.md)
+- [干事：赵威](https://github.com/cdaclub/Academic-Department/blob/main/work_documents/%E6%88%90%E5%91%98%E7%AE%80%E4%BB%8B.md)
 
 ## 每月计划：
 ```sql
@@ -124,7 +124,7 @@
 - 3-4 新增[《Python特征工程极简入门》](https://github.com/cdaclub/Academic-Department/tree/main/Learning-Group/Python%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8)开源教程
 - 1-30 新增学术部首次会议流程文档
 - 1-30 新增学术资料3份
-- 1-30 新增学术部成员介绍
+- 1-30 新增[学术部成员介绍](https://github.com/cdaclub/Academic-Department/blob/main/work_documents/%E6%88%90%E5%91%98%E7%AE%80%E4%BB%8B.md)
 - 1-22 新增[《SQL数据分析极简入门》](https://github.com/cdaclub/Academic-Department/tree/main/Learning-Group/SQL%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B8%88%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8)开源教程
 - 1-22 新增[《Python数据分析极简入门》](https://github.com/cdaclub/Academic-Department/tree/main/Learning-Group/Python%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8)开源教程
 - 1-22 新增[《统计学数据分析极简入门》](https://github.com/cdaclub/Academic-Department/tree/main/Learning-Group/Python%E7%BB%9F%E8%AE%A1%E5%AD%A6%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8)开源教程
