@@ -120,6 +120,8 @@
 ```
 ---
 #### 更新日志
+- 3-15 新增[专业词汇术语表](https://www.aminer.cn/ml_taxonomy)
+- 3-6 新增CDA俱乐部会议&学术部2次会议相关文档
 - 3-4 新增[《Julia数据分析极简入门》](https://github.com/cdaclub/Academic-Department/tree/main/Learning-Group//Julia%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8)开源教程
 - 3-4 新增[《Python特征工程极简入门》](https://github.com/cdaclub/Academic-Department/tree/main/Learning-Group/Python%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8)开源教程
 - 1-30 新增学术部首次会议流程文档
