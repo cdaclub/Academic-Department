@@ -120,17 +120,20 @@
 ```
 ---
 #### 更新日志
-- 3-15 新增[专业词汇术语表](https://www.aminer.cn/ml_taxonomy)
-- 3-6 新增CDA俱乐部会议&学术部2次会议相关文档
-- 3-4 新增[《Julia数据分析极简入门》](https://github.com/cdaclub/Academic-Department/tree/main/Learning-Group//Julia%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8)开源教程
-- 3-4 新增[《Python特征工程极简入门》](https://github.com/cdaclub/Academic-Department/tree/main/Learning-Group/Python%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8)开源教程
-- 1-30 新增学术部首次会议流程文档
-- 1-30 新增学术资料3份
-- 1-30 新增[学术部成员介绍](https://github.com/cdaclub/Academic-Department/blob/main/work_documents/%E6%88%90%E5%91%98%E7%AE%80%E4%BB%8B.md)
-- 1-22 新增[《SQL数据分析极简入门》](https://github.com/cdaclub/Academic-Department/tree/main/Learning-Group/SQL%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B8%88%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8)开源教程
-- 1-22 新增[《Python数据分析极简入门》](https://github.com/cdaclub/Academic-Department/tree/main/Learning-Group/Python%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8)开源教程
-- 1-22 新增[《统计学数据分析极简入门》](https://github.com/cdaclub/Academic-Department/tree/main/Learning-Group/Python%E7%BB%9F%E8%AE%A1%E5%AD%A6%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8)开源教程
-- 1-20 新增学术部文档目录
-- 1-11 建立俱乐部组织文档
-- 1-05 建立俱乐部组织
+- 24-03-24 宣发CDA Club[《第2期数据分析组队打卡学习》](https://github.com/cdaclub/Academic-Department/blob/main/Learning-Group/CDA_Club_Phase2_Data_Analysis_Team_Pin-in_Learning_Activities.md)活动
+- 24-03-15 新增[专业词汇术语表](https://www.aminer.cn/ml_taxonomy)
+- 24-03-06 新增CDA俱乐部会议&学术部2次会议相关文档
+- 24-03-04 新增[《Julia数据分析极简入门》](https://github.com/cdaclub/Academic-Department/tree/main/Learning-Group//Julia%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8)开源教程
+- 24-03-04 新增[《Python特征工程极简入门》](https://github.com/cdaclub/Academic-Department/tree/main/Learning-Group/Python%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8)开源教程
+- 24-01-30 新增学术部首次会议流程文档
+- 24-01-30 新增学术资料3份
+- 24-01-30 新增[学术部成员介绍](https://github.com/cdaclub/Academic-Department/blob/main/work_documents/%E6%88%90%E5%91%98%E7%AE%80%E4%BB%8B.md)
+- 24-01-22 新增[《SQL数据分析极简入门》](https://github.com/cdaclub/Academic-Department/tree/main/Learning-Group/SQL%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B8%88%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8)开源教程
+- 24-01-22 新增[《Python数据分析极简入门》](https://github.com/cdaclub/Academic-Department/tree/main/Learning-Group/Python%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8)开源教程
+- 24-01-22 新增[《统计学数据分析极简入门》](https://github.com/cdaclub/Academic-Department/tree/main/Learning-Group/Python%E7%BB%9F%E8%AE%A1%E5%AD%A6%E6%9E%81%E7%AE%80%E5%85%A5%E9%97%A8)开源教程
+- 24-01-20 新增学术部文档目录
+- 24-01-11 同步俱乐部组织文档
+- 24-01-05 建立俱乐部的GitHub组织账号
+- 23-12-01 宣发CDA Club[《第1期数据分析组队打卡学习》](https://github.com/cdaclub/Academic-Department/blob/main/Learning-Group/CDA_Club_Phase1_Data_Analysis_Team_Pin-in_Learning_Activities.md)活动
+- ……
 ```
