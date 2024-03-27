@@ -72,7 +72,7 @@ AI人工智能学习地图、CDA教材
 ### 三、如何参与活动？
 
 <img src="https://files.mdnice.com/user/33324/7519ab03-c9ca-42d5-8143-3de8a93b180f.png" width="75%" height="auto" >
-<p style='text-align:center; color:#888'> 报名上方二维码即可报名 </p>
+<p style='text-align:center; color:#888'> 扫描上方二维码即可报名 </p>
 
 注：本次活动由CDA开源社区组织，属于非盈利项目，未报名成功可以根据开源教程自行安排学习。
 
